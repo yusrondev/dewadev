@@ -262,13 +262,14 @@
     }
 
     ._btn-download{
-        background-color: #44bd32;
+        background-color: transparent;
         border: 1px solid #44bd32;
         padding: 10px;
         border-radius: 5px;
         font-size: 12pt;
         font-family: 'inter-medium';
         margin-top: 10px;
+        color: #44bd32
     }
 
     ._btn-contact{
