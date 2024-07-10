@@ -18,6 +18,7 @@
   <link rel="icon" href="{{ asset('assets/logo/dewadev-only.png') }}" type="image/x-icon">
 </head>
 <style>
+    body{background-color: #000}
     .fz-30{font-size: 30pt !important;}
     .fz-27{font-size: 27pt !important;}
     .fz-24{font-size: 24pt !important;}
