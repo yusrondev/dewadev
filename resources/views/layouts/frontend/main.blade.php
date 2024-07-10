@@ -225,7 +225,7 @@
     /* detail page */
     .feature-container{
         margin-top: 10px;
-        border: 1px dashed #353b48;
+        border: 1px dashed #57606f;
         padding: 20px;
         color: white;
     }
@@ -310,7 +310,7 @@
         margin-bottom: 10px;
         width: 100%;
         height: 2px;
-        border: 1px dashed #1e272e;
+        border: 1px dashed #57606f;
     }
 
     .detail-date{
