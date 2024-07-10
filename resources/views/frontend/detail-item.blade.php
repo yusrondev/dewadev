@@ -112,10 +112,7 @@
             <div class="col-md-12">
                 <div class="feature-container">
                     <div class="row">
-                        <div class="col-lg-4">
-                            <img src="https://media.licdn.com/dms/image/D5612AQHzfMNm-stGSQ/article-cover_image-shrink_600_2000/0/1692114352814?e=2147483647&v=beta&t=Oh0ojyb8sqdbD7rj9K2arN_t_Gg2svCPL6L1dgd7tQE" style="width:100%">
-                        </div>
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                             <span class="feature-heading">Dapatkan secara gratis</span>
                             <div class="button-action">
                                 <button class="_btn-download">
